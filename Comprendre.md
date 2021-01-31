@@ -1,4 +1,4 @@
-#Comprendre
+# Comprendre
 
 Essayez de synthétiser en binôme votre compréhension de la notion que vous avez vue (s'il s'agissait de plusieurs notions, vous pouvez répéter ce paragraphe plusieurs fois) : 
 - Quel est son rôle ? 
